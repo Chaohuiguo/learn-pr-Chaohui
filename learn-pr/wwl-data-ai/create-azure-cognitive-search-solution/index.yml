@@ -1,4 +1,3 @@
-### YamlMime:LearningPath
 uid: learn.wwl.create-machine-learn-models
 metadata:
   title: Create machine learning models
@@ -17,10 +16,10 @@ iconUrl: /learn/achievements/create-machine-learning-models.svg
 levels:
 - intermediate
 roles:
-- maker
+- data-scientist
 products:
-- azure
-- test-products
+- vs-code
+- test
 modules:
 - learn.wwl.explore-analyze-data-with-python
 - learn.wwl.train-evaluate-regression-models
