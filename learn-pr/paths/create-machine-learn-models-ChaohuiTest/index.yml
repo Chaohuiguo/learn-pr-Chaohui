@@ -17,9 +17,9 @@ iconUrl: /learn/achievements/create-machine-learning-models.svg
 levels:
 - intermediate
 roles:
-- maker
+- data-scientist
 products:
-- azure
+- vs-code
 - test-products
 modules:
 - learn.wwl.explore-analyze-data-with-python
