@@ -1,3 +1,4 @@
+
 uid: learn.wwl.create-machine-learn-models
 metadata:
   title: Create machine learning models
@@ -19,7 +20,7 @@ roles:
 - data-scientist
 products:
 - vs-code
-- test1
+- test
 modules:
 - learn.wwl.explore-analyze-data-with-python
 - learn.wwl.train-evaluate-regression-models
@@ -28,3 +29,4 @@ modules:
 - learn.wwl.train-evaluate-deep-learn-models
 trophy:
   uid: learn.wwl.create-machine-learn-models.trophy
+
