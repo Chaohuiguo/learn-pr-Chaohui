@@ -20,7 +20,6 @@ roles:
 - data-scientist
 products:
 - vs-code
-- test-products
 modules:
 - learn.wwl.explore-analyze-data-with-python
 - learn.wwl.train-evaluate-regression-models
